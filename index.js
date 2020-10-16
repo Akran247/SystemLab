@@ -1,5 +1,5 @@
 function Mendchilgee(){//Function component -> props-гүй
-    return <h1>Hello bitch</h1>
+    return <h1>Hello Naraa</h1>
 }
 function Mendchilgee47(props){//Function component -> props-той
 return <h1>{props.ner}</h1>
